@@ -24,13 +24,13 @@ En caso de querer verificar el correcto funcionamiento de todas las implementaci
 1. Clonar el repositorio:
 
 ```bash
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/belentellechea/obligatorio_2_calculo)
+git clone https://github.com/belentellechea/obligatorio_2_calculo
 ```
 
 2. Acceder al directorio del proyecto:
 
 ```bash
-cd [<NOMBRE_DEL_REPOSITORIO>](https://github.com/belentellechea/obligatorio_2_calculo)
+cd https://github.com/belentellechea/obligatorio_2_calculo
 ```
 
 3. Abrir el notebook utilizando cualquier entorno compatible, como:
