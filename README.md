@@ -41,7 +41,3 @@ cd https://github.com/belentellechea/obligatorio_2_calculo
 4. Ejecutar las celdas en orden de aparición.
 
 Al ejecutar el notebook completo se regenerarán automáticamente todas las tablas, gráficos y resultados presentados en el informe.
-
-## Autora
-
-Belén Tellechea
