@@ -16,7 +16,7 @@ Por este motivo, el notebook constituye tanto el código fuente del trabajo como
 El código, los resultados obtenidos y las figuras generadas pueden visualizarse directamente desde GitHub accediendo al notebook incluido en este repositorio.
 
 De esta forma, es posible revisar tanto las implementaciones como las salidas obtenidas sin necesidad de ejecutar el proyecto localmente.
-
+p
 ## Reproducción de resultados
 
 En caso de querer verificar el correcto funcionamiento de todas las implementaciones y reproducir los resultados obtenidos, se recomienda:
